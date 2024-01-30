@@ -48,6 +48,21 @@ Embark on this thrilling journey of coding and exploration with me, where creati
 <br />
 <br />
 
+## Recent Projects
+
+<a href='https://postimg.cc/yJ9mfFzc' target='_blank'  margin="100px">
+<img src='https://i.postimg.cc/9fgLQp88/E-Commerce-Project.jpg' border='0' alt='E-Commerce-Project'/>
+</a>
+
+<a href='https://postimg.cc/1gMsHN4B' target='_blank'  margin="100px">
+<img src='https://i.postimg.cc/9MH0cdh6/Notes-App.jpg' border='0' alt='Notes-App' margin="20"/>
+</a>
+
+<a href='https://postimg.cc/ZvvDjWjQ' target='_blank'  margin="100px">
+<img src='https://i.postimg.cc/zvxZzWhq/Notes-App2.jpg' border='0' alt='Notes-App2' margin="20"/>
+</a>
+
+
 [twitter]: https://twitter.com/NikhithSomasani
 [instagram]: https://www.instagram.com/icon_tinku/
 [linkedin]: https://www.linkedin.com/in/nikhith-kumar-somasani/
